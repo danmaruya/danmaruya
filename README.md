@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ### Hello there! 👋
 My name is Daniel Kenji!
 
-I have a bachelor's degree in Business Administration and a post-graduation in Business Intelligence and Big Data.
+I have a bachelor's degree in Business Administration and a MBA in Business Intelligence and Big Data.
 Actually, I'm studying for a new graduation in Analysis and Systems Development.
 
 I worked for 8 years with finances, at the tesourary part. And now I'm in transition career to IT.
